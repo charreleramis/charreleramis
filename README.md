@@ -10,7 +10,7 @@ I build web and mobile applications from scratch — turning ideas into function
 - **Backend**: Node.js (MERN stack)  
 - **Favorite Tools**: Xcode, Figma, MacBook  
 
-Check out my pinned repositories — my personal favorite is **[spacemaster-app](https://github.com/yourusername/spacemaster-app)**.
+Check out my pinned repositories — my personal favorite is **[spacemaster-app](https://github.com/charreleramis/spacemaster-app)**.
 
 ### Fun Facts
 - I also study law  
