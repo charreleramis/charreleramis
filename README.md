@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Hi there! 👋 I'm Charrel</h1>
-</div>
+Hi there! 👋 I'm Charrel
 
 I'm a full-stack developer based in the Philippines.
 
