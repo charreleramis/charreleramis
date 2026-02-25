@@ -1,4 +1,4 @@
-<h1>Hi there! 👋 I'm Charrel</h1>
+<h4>Hi there! 👋 I'm Charrel</h4>
 
 I'm a full-stack developer based in the Philippines.
 
